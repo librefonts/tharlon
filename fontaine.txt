@@ -1,0 +1,42 @@
+Fonts
+  Font:
+    Common name: TharLon
+    Sub family: Regular
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010-2012, Sai Zin Di Di Zone (www.yunghkio.com/unicode|saiddzone@gmail.com), with Reserved Font Name 'Yunghkio'. Copyright (c) 2012, Google, Inc (http://code.google.com/p/googlefontdirectory/), with Reserved Font Name 'Arimo'. Copyright (c) 2012, Sun Tun, Ngwe Tun, Solveware Solution (http://code.google.com/p/tharlon-font|info@parabaik.info), with Reserved Font Name 'TharLon'.
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.002 September 26, 2012
+    Vendor: Sai Zin Di Di Zone, Sun Tun, Ngwe Tun
+    Vendor url: http://code.google.com/p/tharlon-font/
+    Designer: Sai Zin Di Di Zone
+    Designer url: http://code.google.com/p/tharlon-font/
+    Glyph count: 630
+    Character count: 386
+    Orthographies:
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 62
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
